@@ -17,4 +17,4 @@ https://youtu.be/evmC3LAVSVc
 3. Node-RED flow (flows.json)
 4. Code for function node in Node-RED flow (input_parsing.txt and parsing.txt)
 5. Watson Discovery document (ecobee3_UserGuide(1).pdf)
-6. Project report (ProjectReport.pdf)
+6. Project report (ProjectReport_IISPS_INT-359.pdf)
